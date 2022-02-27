@@ -1,0 +1,1279 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon of the fifth monarchy. Proving by invincible arguments, that the saints shall have a kingdom here on earth, which is yet to come, after the fourth monarchy is destroy'd by the sword of the saints, the followers of the lamb. / Preached by Mr. Tho. Goodwin, on Rev. 5. 9, 10. By which it will appear, that it is for the same truth (that formerly was so much contended for) that some of the people of God suffer at this day. Published for the truths sake.</title>
+            <author>Goodwin, Thomas, 1600-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 60 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85438</idno>
+            <idno type="STC">Wing G1256</idno>
+            <idno type="STC">Thomason E812_9</idno>
+            <idno type="STC">ESTC R207633</idno>
+            <idno type="EEBO-CITATION">99866672</idno>
+            <idno type="PROQUEST">99866672</idno>
+            <idno type="VID">118950</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85438)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118950)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 123:E812[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon of the fifth monarchy. Proving by invincible arguments, that the saints shall have a kingdom here on earth, which is yet to come, after the fourth monarchy is destroy'd by the sword of the saints, the followers of the lamb. / Preached by Mr. Tho. Goodwin, on Rev. 5. 9, 10. By which it will appear, that it is for the same truth (that formerly was so much contended for) that some of the people of God suffer at this day. Published for the truths sake.</title>
+                  <author>Goodwin, Thomas, 1600-1680.</author>
+               </titleStmt>
+               <extent>[4], 31, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>for Livewel Chapman, at the Crown in Popes-head-Alley.,</publisher>
+                  <pubPlace>Printed at London, :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "7ber [i.e., September] 22".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Revelations V, 9-10 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118950:1" rendition="simple:additions"/>
+            <p>A
+SERMON
+OF THE
+Fifth Monarchy.</p>
+            <p>Proving by Invincible ARGUMENTS,
+<hi>That the Saints ſhall have a Kingdom
+here on Earth,</hi>
+Which is yet to come, after the Fourth
+Monarchy is deſtroy'd by the Sword of
+the Saints, the followers of the LAMB.</p>
+            <p>Preached by Mr. THO. GOODWIN,
+on <hi>Rev.</hi> 5. 9, 10.</p>
+            <p>By which it will appear, that it is for the
+ſame Truth (that formerly was ſo much contend<g ref="char:EOLhyphen"/>ed
+for) that ſome of the People of God ſuffer at
+this day.</p>
+            <p>Publiſhed for the Truths ſake.</p>
+            <q>
+               <bibl>Prov. 24. 21.</bibl>
+               <p>—And meddle not with them that are given to
+change.</p>
+            </q>
+            <p>Printed at <hi>London,</hi> for <hi>Livewel Chapman,</hi> at the Crown
+in Popes-head-Alley. 1654.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:118950:2"/>
+            <pb facs="tcp:118950:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He doctrine of the <hi>SAINTS REIGN ON
+EARTH,</hi> is matter of <hi>great Comfort</hi> to the
+People of God, becauſe of the glory which ſhall
+be revealed in that day. This Sermon com<g ref="char:EOLhyphen"/>ing
+to my hands, <hi>at ſuch a time as this,</hi> where<g ref="char:EOLhyphen"/>in
+the <hi>Truths of Chriſts Kingdom</hi> (this
+Reign of the Saints) <hi>are SO blaſphemed and ſpoken againſt,</hi>
+even by the <hi>quondam</hi>-Aſſertors and Profeſſors of them; and,
+when men are become SCOFFERS; this term <hi>FIFTH-MO<g ref="char:EOLhyphen"/>NARCHY-MEN</hi>
+being made a mark of <hi>Ignominy and Re<g ref="char:EOLhyphen"/>proach:</hi>
+I thought it my duty to communicate it to thee (Reader)
+that <hi>the Truth may be vindicated,</hi> and <hi>the Saints comforted</hi>
+in this evil day.</p>
+            <p>This Excellent man hath proved this Truth by ſuch undeniable
+Demonſtrations, that I am perſwaded all the Enemies Chriſt and
+It hath, are not able to gainſay. To perſwade thee to ponder them,
+I ſuppoſe I need not: the honour and eſteem the worthy Arthor
+hath in the hearts of all good men that have either heard or read
+him, will be a ſuffictent Motive.</p>
+            <p>Onely give me leave to point out a few things to thee.</p>
+            <p>
+               <hi>We are told, page</hi> 6. That the Saints have an influence in the
+managing the affairs of the world, by their Prayers. <hi>If ſo,
+let us conſider, what a</hi> TOTTERING CONDITION <hi>they
+are in, who have the trayers of the Saints engaged againſt them;
+yea, though but of a few</hi> deſpiſed ones, <hi>who are not clothed with
+the glory and power of this world. I do remember that this good
+man told us in another</hi>
+               <note n="*" place="margin">Preached <hi>Feb.</hi> 5. 1645. on <hi>Rev.</hi> 15. from ver. 1 to 5.</note> 
+               <hi>Sermon,</hi> That the prayers of a few
+Saints have a mighty prevalencie to turn the ſtate of affairs
+in the world: The prayers of the Saints againſt thoſe that
+<pb facs="tcp:118950:3"/>
+oppreſs them, will ſtill bring the vintage (<hi>the vintage of Gods
+wrath on Proteſtants that provoke him</hi>) on them. An Angel
+cries out of the Temple, ſeeing the Name of Chriſt profan'd
+by thoſe that profeſs Chriſt, and yet are oppoſers of the
+Saints: God hears their voice, and ſends it for them, and
+will continue to do it, <hi>&amp;c.</hi>
+            </p>
+            <p>Further, we are told in the afore-mentioned page, <hi>That though
+the Saints know not what Chriſt will do next, yet they are
+guided (as it were) by a ſpirit of Prophecie, to ſeek for thoſe
+very things which he is about to do.</hi> Then how cautious
+ought we to be, of CENSURING thoſe of Gods people who go be<g ref="char:EOLhyphen"/>yond
+us in their prayers and deſires, lest we prove Oppoſers of the
+Spirit of God in them!</p>
+            <p>Again, page 6, 7, <hi>&amp;c. That the Saints in heaven rule the
+world, and, by converſe with the Angels, have a knowledge
+of the great things that are done on earth. When a ſoul is
+converted, there is joy in heaven; and when</hi> Rome <hi>is de<g ref="char:EOLhyphen"/>ſtroyed,
+there will be joy in heaven.</hi> Rev. 18. 20. <hi>and</hi> Rev. 6.
+9, 10. <hi>The ſouls under the altar, newly ſlain, they cry to
+God to avenge their blood.</hi> Now what may we think the
+Saints in heaven (who within theſe ten yeers laſt paſt, loſt their
+lives in the Cauſe of Christ) are EMPLOYED ABOUT at this
+time, they underſtanding by the Angels what great—are
+come to paſsion our earth! May we not juſtly fear,
+they are crying to God, <hi>How long, O Lord, holy and true, doſt
+thou not judge and avenge our blood!</hi> &amp;c. Surely things
+are not now, as if <hi>THE GREAT INTEREST OF STATES
+AND KINGDOMS</hi> were minded; the Impriſonment of
+the Saints ſpeaks another kinde of language. But let us not be
+diſcouraged: our Lord Jeſus hath foretold theſe things, that ſo
+we might prepare our ſelves, and when they come to paſs, our hearts
+may not be troubled. Theſe are ſignes of his coming; and many
+more he gives us, that he is coming, and will not tarry. <hi>Come,</hi>
+Lord Jeſus, come quickly. Even ſo. Amen.</p>
+            <closer>
+               <signed>By a ſervant of the Saints, who waits<lb/>
+for, and expects the Kingdom and<lb/>
+Power of our Lord Jeſus.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:118950:3"/>
+            <head>A
+SERMON
+OF
+The fifth Monarchy.</head>
+            <epigraph>
+               <bibl>Revel. 5. 9, 10.</bibl>
+               <q>And they ſung a new ſong, ſaying, Thou art worthy to take
+the book, and to open the ſeals thereof: for thou waſt ſlain,
+and haſt redeemed us to God by thy blood, out of every
+kindred, and tongue, and people, and nation:
+And haſt made us, unto our God, kings and prieſts: and
+we ſhall reign on the earth.</q>
+            </epigraph>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>He ſcope of this whole Chapter is (as
+I have ſhewed you heretofore) to ſet
+forth (in the beginning of this Pro<g ref="char:EOLhyphen"/>phecie</hi>)
+The ſolemnity of Chriſts under<g ref="char:EOLhyphen"/>taking
+to be king, and to execute under God
+all his decrees contained in this book, to ful<g ref="char:EOLhyphen"/>fil
+and accompliſh them, in governing this world to the end
+<pb n="2" facs="tcp:118950:4"/>
+thereof, for the good of his Church.</p>
+            <p>In the firſt verſe therefore, you have (all being act<g ref="char:EOLhyphen"/>ed
+in a Comick way) God the Father, ſitting upon a
+Throne, holding a book in his hand: and (to glorifie
+Chriſt the more, that he alone was able to undertake
+the execution of the things contained in that book) a
+Proclamation was made, Who in heaven or in earth
+was able to open the book, and to looſe the ſeals
+thereof: ſo verſ 2. In this ſtrait, (becauſe none was
+found worthy to do it) Jeſus Chriſt ſteps up, and
+takes the book out of the hand of him that ſate upon
+the throne: ſo verſ. 7. And then, from verſ. 8. the
+Chapter is ſpent in the acclamations of the ſpecta<g ref="char:EOLhyphen"/>tors,
+of all ſorts, which are caſt into three ſeveral
+Rings or Rounds, ſtanding round about the throne.
+There is firſt the acclamation of the Church of men
+on earth, verſ 8, 9, 10. There is ſecondly the accla<g ref="char:EOLhyphen"/>mations
+of the Angels, ſtanding round about the
+Church of men, in a Ring remoter then they from
+the throne, verſ. 11 &amp; 12. And then you have the
+common multitude that do ſtand without, <hi>every crea<g ref="char:EOLhyphen"/>ture
+in heaven, and in the earth, and in the ſea,</hi> all ſing<g ref="char:EOLhyphen"/>ing,
+<hi>Praiſe and glory to him that ſuteth on the throne, and
+to the Lamb, for ever and ever.</hi>
+            </p>
+            <p>I am yet in the acclamation of the Church of men
+on earth, contained in the 8, 9, and 10 verſes. Where
+you have, firſt, their deſcription, verſ. 8. Secondly,
+the ſong which they ſing, in the 9 &amp; 10 verſes; and
+that for two things: firſt, becauſe that the Lamb had
+redeemed them: ſo verſ. 9. and ſecondly, for advan<g ref="char:EOLhyphen"/>cing
+them to be kings and prieſts unto God. And
+then laſtly, you have an Inference, or a triumphant
+concluſion they collect from all what they had ſeen;
+<pb n="3" facs="tcp:118950:4"/>
+and that is this: <hi>WE SHALL RAIGN ON
+EARTH.</hi>
+            </p>
+            <p>I finiſhed that of <hi>Redemption,</hi> a day or two ago.</p>
+            <p>I came ſecondly to their Advancement: <hi>Thou haſt
+made us, unto our God, kings and priests.</hi> There are theſe
+things to be obſerved in it.</p>
+            <p>Firſt, the perſons that are made kings and prieſts,
+<hi>US,</hi> the generality of Saints.</p>
+            <p>Secondly, I ſhewed you what it was to be a king
+and a prieſt.</p>
+            <p>Kings they were,</p>
+            <p>1. In regard of the inward frame of their ſpirits.
+And</p>
+            <p>2. In reſpect of the outward Royalty which he
+beſtoweth upon them, as upon Kings.</p>
+            <p>Jeſus Chriſt himſelf is here preſented both as a
+King, and as a Prieſt; as a Lion, and as a Lamb ſlain:
+and anſwerably, he makes the Saints partakers of the
+priviledges which he himſelf hath. <hi>Thou haſt made us</hi>
+(ſay they) <hi>kings and prieſts.</hi> Jeſus Chriſt himſelf is na<g ref="char:EOLhyphen"/>turally
+a King; he hath it by inheritance: ſo <hi>Heb.</hi> 1. 4.
+He <hi>hath by inheritance obtained a more excellent name then
+the Angels:</hi> but we are <hi>made,</hi> and made by him. He
+is the Heir; but we come in through him to be co<g ref="char:EOLhyphen"/>heirs
+with God: ſo the Apoſtle ſaith, <hi>Rom.</hi> 8.</p>
+            <p>See and acknowledge the prerogative of Jeſus
+Chriſt above all the Saints. Though all the ſame
+priviledges that are in Chriſt himſelf, are in the
+Saints; we are ſons as he, we are kings as he, prieſts
+as he: yet all theſe with this difference; he is <hi>natu<g ref="char:EOLhyphen"/>rally
+ſo,</hi> we are <hi>made ſo,</hi> made ſo <hi>by him.</hi>
+            </p>
+            <p>In <hi>Heb.</hi> 5. 5, 6. when the Apoſtle would prove that
+Chriſt is a Prieſt, and hold forth that title of his, he
+<pb n="4" facs="tcp:118950:5"/>
+quoteth two places; and a man would wonder why
+thoſe two plaees ſhould be put together: Firſt, verſ. 5.
+ſaith he, <hi>He that ſaid, Thou art my ſon, to day have I be<g ref="char:EOLhyphen"/>gotten
+thee. As he ſaith</hi> (ſo verſ. 6.) <hi>in another place, Thou
+art a prieſt for ever after the order of Melchizedek.</hi> How
+doth the firſt of theſe places, <hi>viz. Thou art my ſon,
+this day have I begotten thee,</hi> prove that Chriſt was a
+Prieſt? Thus: The law of Nature, before <hi>Moſes,</hi>
+was, that the eldeſt, the firſt-born in the family, was
+both the Judge, and alſo the Prieſt of that family.
+Now becauſe Chriſt is both the natural and the el<g ref="char:EOLhyphen"/>deſt
+Son of God, therefore he is a Prieſt by inheri<g ref="char:EOLhyphen"/>tance;
+but we (I ſay) are made ſo by him.</p>
+            <p>And take this for a certain Rule, That that which
+is derived, can never arrive to that fulneſs of preroga<g ref="char:EOLhyphen"/>tive
+with what is natural. An adopted ſon can never
+come to be a natural ſon. A made King and a made
+Prieſt, can never come to the ſame height of prero<g ref="char:EOLhyphen"/>gative
+and title that he hath that is naturally ſo. And
+therefore though all that is in Chriſt, and all his pri<g ref="char:EOLhyphen"/>viledges
+are by way of participation in the Saints,
+yet it is impoſſible they ſhould be in that fulneſs:
+Why? Becauſe it is derived: <hi>Thou haſt made us kings
+and priests.</hi>
+            </p>
+            <q>
+               <hi>Thou hast made us, unto our God, kings and prieſts.</hi>
+            </q>
+            <p>I take it, thoſe words, <hi>unto our God,</hi> do not refer to
+Kings, but to Prieſts, and to that alone: and my
+reaſon is this; Not onely becauſe it cannot in any
+propriety of ſpeech be ſaid, <hi>We are kings unto God:</hi>
+We may be ſaid to be kings unto the creatures, and
+unto all things elſe. But to be <hi>Prieſts unto God,</hi> to of<g ref="char:EOLhyphen"/>fer
+up ſacrifice unto him, that is proper. And the
+reaſon further is this, Becauſe in <hi>Rev.</hi> 20. 6. (where
+<pb n="5" facs="tcp:118950:5"/>
+this thing is fulfilled) though he ſpeaks there of their
+raigning, and of their being Kings, yet he doth not
+ſay they are Kings unto God, but onely ſaith, <hi>They are
+prieſts of God, and of Chriſt.</hi>
+            </p>
+            <p>And Prieſts they are <hi>unto OUR God;</hi> becauſe that
+God becomes their God by a free choice, though in
+Chriſt, yet not for Chriſt: We are choſen in Chriſt,
+but not for the merit of Chriſt; he is our God
+freely.</p>
+            <p>I told you that theſe words, <hi>Thou haſt made us
+kings and prieſts,</hi> reſpect eſpecially their priviledge and
+honour to rule this world, and the affairs thereof.
+When they ſaw Jeſus Chriſt undertook the mana<g ref="char:EOLhyphen"/>ging
+the affairs of the world, and to execute the De<g ref="char:EOLhyphen"/>crees
+contained in that book held in the hand of him
+that ſate on the throne, which contained how God
+would have the world managed unto the day of
+Judgement, and that Chriſt was thus crowned king;
+they upon this utter this ſong of praiſe, That <hi>they
+are made kings with him;</hi> as in reſpect of the glory to
+come in heaven, being co-heirs with Chriſt, ſo alſo
+as being joyned in commiſſion with him for the ma<g ref="char:EOLhyphen"/>naging
+of the affairs of this book, and accompliſhing
+the things contained in it. <hi>We alſo</hi> (ſay they) <hi>are
+kings and priests.</hi> And their inference implies as
+much, <hi>We ſhall raign on earth:</hi> the loweſt interpreta<g ref="char:EOLhyphen"/>tion
+of which, that can be given, muſt be this: We
+ſhall have an hand in guiding the affairs of the earth;
+which although it ſhall have an eminent accompliſh<g ref="char:EOLhyphen"/>ment
+at a certain ſeaſon to come, therefore they ſay,
+<hi>We SHALL raign:</hi> yet notwithſtanding they are
+kings at preſent, and it is in ſome degree fulfilled
+now.</p>
+            <p>
+               <pb n="6" facs="tcp:118950:6"/>
+I told you laſt day, I thought there were four de<g ref="char:EOLhyphen"/>grees
+of the fulfilling of this their being Kings.</p>
+            <p>Firſt, in this world, they by their prayers having
+an influence in the managing the affairs of the world,
+and into the accompliſhment of all the great things
+that Chriſt doth do for his Church. And though it
+may be, and it is certain, they have not in all ages
+known (according to what is in this prophecie) what
+Jeſus Chriſt will do next, yet ſtill, by the ſpirit of
+Prophecie, as it were, the Saints have been guided
+to ſeek for thoſe things at the hands of God and
+Chriſt, which he was about to accompliſh.</p>
+            <p>Secondly, in heaven; and for that I quoted firſt
+that place in <hi>Rev.</hi> 2. 26. where, <hi>To him that over cometh,</hi>
+(therefore it is meant of a ſtate after death) <hi>and keepeth
+my commandments to the end, will I give power over the
+nations, and he ſhall rule them with a rod of iron: as a
+veſſel of the potters ſhall they be broken in ſhivers, even as I
+have received of my Father.</hi> When is this to be ful<g ref="char:EOLhyphen"/>filled?
+Not before death; for he ſpeaks of him
+that overcometh, and keepeth his commandments to
+the end. Not at the day of Judgement onely; for it
+is the ſame promiſe was made to Chriſt in the ſecond
+Pſalm, which is evidently to be underſtood of
+Chriſts Government committed unto him by the
+Father until the day of Judgement, which here you
+ſee he ſaith he hath received of his Father. If there<g ref="char:EOLhyphen"/>fore
+that in the ſecond Pſalm be meant (as clearly it
+is) of Chriſts government of the world unto the day
+of Judgement, and that he promiſeth his Saints after
+death the ſame priviledge; then of neceſſity it muſt
+needs follow, that they have a ſhare and a hand
+therein.</p>
+            <p>
+               <pb n="7" facs="tcp:118950:6"/>
+I quoted likewiſe another place for this, namely,
+out of <hi>Dan.</hi> 4. 17. where when that great buſineſs, the
+greateſt work then in the world, was to be done, the
+cutting down of <hi>Nebuchadnezzar,</hi> and turning him
+out for ſeven yeers to feed among the beaſts of the
+field, the Angel that comes down, and gives the com<g ref="char:EOLhyphen"/>mand
+for it, ſaith, <hi>This matter is not by me alone, but it
+is by the decree of all the watchers, that is, of all the angels,
+and by the word of the holy ones:</hi> they all concur in it.
+And thus <hi>Junius</hi> interprets that place.</p>
+            <p>I added likewiſe, for the ſtrengthening of this, a
+third Scripture, <hi>Revel.</hi> 6. 9, 10. where the ſouls under
+the altar, newly ſlain, having their ſouls ſevered from
+their bodies, under that great and laſt perſecution
+under <hi>Diocleſian,</hi> (for to thoſe times doth that cry re<g ref="char:EOLhyphen"/>fer)
+they cry for vengeance upon their blood: Not
+onely doth their blood cry, as <hi>Abel</hi>'s is ſaid to do
+from the beginning of the world, but their ſouls
+are ſaid to cry.</p>
+            <p>The Papiſts, that they may bring in the doctrine
+of the invocation of Saints departed, (which is that
+great doctrine of devils, or of <hi>Daemons</hi> rather, which
+the Apoſtle foretold ſhould be brought up in the
+world, and is the greateſt idolatry that ever was up<g ref="char:EOLhyphen"/>on
+earth) they teach that the ſouls in heaven do there
+know all things here below, in the glaſs of the Tri<g ref="char:EOLhyphen"/>nity,
+and of the Godhead. And our Divines, that
+they may wholly take away that Argument for in<g ref="char:EOLhyphen"/>vocation
+of Saints, from the Papiſts, many of them
+have denied that there is any knowledge at all of the
+things that are done here belowe. But, my brethren,
+there is no connexion between their knowledge of
+<pb n="8" facs="tcp:118950:7"/>
+the great affairs of this world, and having an influ<g ref="char:EOLhyphen"/>ence
+into them; and their invocation, none at all.
+For,</p>
+            <p>Firſt, no man is able to affirm that they know all
+particular things here: and yet me-thinketh no man
+ſhould deny, but that they have knowledge (by the
+Angels that are continually meſſengers from heaven
+to earth) of the great things that are done here.
+There is joy thorowout all heaven, when a ſoul is
+converted. And in <hi>Rev.</hi> 18. 20. when <hi>Rome</hi> is de<g ref="char:EOLhyphen"/>ſtroyed,
+as there will be joy thorowout the whole
+earth, ſo there will be joy thorowout the heavens al<g ref="char:EOLhyphen"/>ſo,
+when that City is ruined, in which is found the
+blood of all the Apoſtles, and of all the Martyrs and
+Saints ſlain by the power and authority of that City
+(for ſo God hath ordered it) from the Primitive times
+to this day; then ſaith he, <hi>Rejoyce over her, thou hea<g ref="char:EOLhyphen"/>ven,
+and ye holy apoſtles and prophets: for God hath aven<g ref="char:EOLhyphen"/>ged
+you on her.</hi> I ſay, there is no connexion between
+thoſe two; That becauſe they may be ſuppoſed to
+know ſome of the great affairs of the world, that
+therefore they muſt be invocated. Invocation there<g ref="char:EOLhyphen"/>fore
+is upon theſe grounds denied by our Divines,
+and juſtly too: For,</p>
+            <p>Firſt, it is certain, and cannot be denied, that the
+Angels do know the things of this world; for they
+attend there as miniſtring ſpirits continually, which
+the other do not: and yet becauſe they know them,
+it is no argument at all, that therefore we may invo<g ref="char:EOLhyphen"/>cate
+Angels, or pray unto them to pray for us. If a
+man were ſure that an Angel were by him, and now
+attending on him, (as I am certain there are Angels
+attending the Saints; for they are their great guard
+<pb n="9" facs="tcp:118950:7"/>
+in all places, eſpecially in the Churches, in their pub<g ref="char:EOLhyphen"/>like
+Worſhip) yet he hath no warrant at all to de<g ref="char:EOLhyphen"/>ſire
+that Angel to pray for him: God hath not ap<g ref="char:EOLhyphen"/>pointed
+ſuch a way of communion between us and
+him.</p>
+            <p>Secondly, we have no warrant to believe that the
+Saints in heaven do hear us when we pray unto them
+to pray for us; and leaſt of all, to think that one
+Saint ſhould be able to hear a thouſand, nay ten thou<g ref="char:EOLhyphen"/>ſand
+Saints on earth at one time; it is the greateſt
+abſurdity in the world to imagine it: and yet how
+many ſuitors hath that one virgine <hi>Mary?</hi> The
+Saints departed may be ſuppoſed to have a great in<g ref="char:EOLhyphen"/>tereſt
+and priviledge, and participation with Jeſus
+Chriſt, and a great honour communicated to them,
+for the managing of the great affairs of this world;
+and yet there is no conſequence, nay the clean con<g ref="char:EOLhyphen"/>trary,
+that therefore we ſhould invocate them; be<g ref="char:EOLhyphen"/>cauſe
+that no man can be aſſured, nay it is certain
+they do not hear the prayers of any, much leſs can
+they hear the prayers of ſo many: which is the do<g ref="char:EOLhyphen"/>tage
+of the Church of <hi>Rome.</hi>
+            </p>
+            <p>But laſtly, it is flat Idolatry, and that for this rea<g ref="char:EOLhyphen"/>ſon,
+Becauſe that Chriſt being aſcended into hea<g ref="char:EOLhyphen"/>ven,
+is conſtituted and appointed a Mediator there;
+and therefore for any to pray to the Saints in heaven
+to pray for them, is to have another Mediator before
+Chriſts face, whereas he alone hath took on him that
+office: for, <hi>There is one mediator between God and man, the
+man Chriſt Jeſus.</hi>
+            </p>
+            <p>And ſo now I paſs from the Explication of thoſe
+words; and come to the third thing, which, I take it,
+is more eminently aimed at in the text, and in theſe
+words,
+<q>
+                  <pb n="10" facs="tcp:118950:8"/>
+                  <hi>We ſhall raign on earth.</hi>
+               </q>
+            </p>
+            <p>I ſhall open what I conceive to be the meaning of
+theſe words, exceeding briefly, not intending to make
+a Subject of any thing in this Chapter. For when I
+firſt took it in hand, I onely purpoſed to run curſorily
+over it.</p>
+            <p>Firſt then, it is evident, that there muſt be ſome
+great eminent advancement, yet to come, as the con<g ref="char:EOLhyphen"/>ſequent
+of Chriſts being King; which theſe Saints
+here, had in their eye.</p>
+            <p>This I ſhall open to you by degrees.</p>
+            <p>For firſt, if you mark it, upon Chriſt's taking the
+book, (which was his undertaking to be King of the
+world) they fall out into this Outcry of praiſe and
+rejoycing, <hi>We ſhall raign on earth.</hi> This is the fruit,
+this is the iſſue, this is the concluſion of Chriſt's ha<g ref="char:EOLhyphen"/>ving
+taken the kingdom, and undertaking to be King.
+And it muſt needs too be ſome great and eminent
+thing, which muſt have an eminent and conſpicuous
+accompliſhment: for it is that thing which is next in
+their thoughts. They over-look all priviledges elſe,
+and do pitch upon this, and parallel it with Redem<g ref="char:EOLhyphen"/>ption.
+For, if you mark it, their ſong of praiſe runs
+but upon theſe two things; <hi>Thou haſt redeemed us with
+thy blood, and hast made us kings,</hi> and <hi>we ſhall raign on
+earth.</hi>
+            </p>
+            <p>Secondly, it is ſome eminent thing, to be fulfilled
+at an eminent time to come. For mark the diffe<g ref="char:EOLhyphen"/>rence;
+<hi>Thou haſt made us kings,</hi> ſay they; thou haſt
+given us that title, and that honour at the preſent: but
+<hi>we SHALL raign;</hi> ſpeaking of it, as of a thing yet to
+<pb n="11" facs="tcp:118950:8"/>
+come. They are kings, and they do raign in that
+reſpect by prayer; but yet they raign in ſackcloth:
+yea, but <hi>we SHALL raign,</hi> ſay they.</p>
+            <p>Now that you may the better underſtand how it
+is to come, and when it is to come; for otherwiſe in
+all other reſpects the Saints are Kings in all ages; but
+I ſay, that there is a peculiar time in which it is to be
+accompliſhed, which they have now in their eye.</p>
+            <p>To make this clear to you, do but conſider the na<g ref="char:EOLhyphen"/>tural
+contexture of what now followeth in this diſ<g ref="char:EOLhyphen"/>courſe.</p>
+            <p>They utter this, you ſee, in the beginning of the
+book, in this viſion of Chap. 5. which (as I have
+ſhewn) is the prologue to the whole that follows.
+They utter it when they did but firſt ſee Jeſus Chriſt
+undertake to be King of the world, and had taken the
+government thereof upon him, and the execution of
+the decrees contained in that book he took out of the
+hand of him that ſate on the throne. Before the end
+of the world ſhould come, there was a long time,
+and a great many things that were contained in this
+book, in this roll which Chriſt took, which was
+written within and without, that were orderly one
+after another to be performed; therefore, in the
+next Chapter to this, after this Viſion is paſt, (which
+as I ſaid, is the prologue) there is firſt a going forth
+to conquer; <hi>Behold,</hi> (ſaith he, verſ. 2.) <hi>a white horſe,
+and he that ſate on him had a bowe, and a crown was given
+unto him; and he went forth conquering, and to conquer.</hi>
+He had begun to ſet upon the world then, he went
+forth conquering; but he muſt go on to conquer;
+for he had the Heatheniſh world to conquer, and he
+<pb n="12" facs="tcp:118950:9"/>
+hath the Antichriſtian world, and he hath the Mahu<g ref="char:EOLhyphen"/>metane
+world to conquer. And all his conqueſt is
+carried on, till towards the later end, by his bowe;
+he takes nothing out with him elſe; he overcomes
+by his Word, which are <hi>the arrows he ſhoots into the
+hearts of the Kings enemies,</hi> as you have it in <hi>Pſal.</hi> 45. 5.
+So that now all the ſtory thorowout this book after<g ref="char:EOLhyphen"/>wards,
+it is but the ſtory of Chriſts conquering of
+his Kingdom with his bowe, and with his arrows,
+and executing the decrees that were contained in the
+roll he took out of his Fathers hand. When you
+come towards the end of the book, in the 19 Chap<g ref="char:EOLhyphen"/>ter,
+he that in the ſixth Chapter you ſaw when he
+went firſt out, riding upon a white horſe, you ſhall
+ſee him with Armies attending of him, whereof he
+is the General, riding likewiſe upon a white horſe.
+<hi>I ſaw</hi> (ſaith he, verſ. 11.) <hi>heaven opened, and behold a white
+horſe, and he that ſate upon him was called Faithful and
+True; and in righteouſneſs he doth judge and make war.</hi>
+For towards the later end, when he comes to grapple
+with the Antichriſtian world, he doth do it by the
+Sword, and not by his Bowe onely. And therefore
+when he ſpeaks of the Beaſt (chap. 13.) who had made
+war with the Saints, he tells us, (verſ. 10.) that <hi>he that
+killeth with the ſword, muſt be killed with the ſword.</hi> It
+ſhall be the ſword that ſhall end it. Therefore he
+that at firſt went forth upon a white horſe, with no<g ref="char:EOLhyphen"/>thing
+but his bowe, you ſee him in the nineteenth
+Chapter coming to make war, &amp; the Armies which
+were in heaven following him. And what is the
+iſſue of it? Verſ. 20. <hi>The Beaſt was taken, and with
+him the falſe prophet,</hi> (whether the Mahumetane party,
+and the Pope, I will not now determine; but) <hi>they
+<pb n="13" facs="tcp:118950:9"/>
+were altogether ruined and deſtroyed, caſt into a lake of fire
+burning with brimſtone.</hi> All this Jeſus Chriſt doth,
+before he comes fully to poſſeſs his kingdom. And
+this you have related to you between the 6 Chapter
+and the 20 Chapter.</p>
+            <p>Well now, at the 20 Chapter, you ſhall ſee, that
+what they ſaid at the beginning would be the iſſue of
+Chriſt's taking upon him the government of the
+world, and undertaking to fulfil the Decrees contain<g ref="char:EOLhyphen"/>ed
+in the book, the ſame is declared to be made good
+then, as being the eminent ſeaſon for it. For after
+that he had taken the Beaſt and the falſe Prophet, an
+Angel came down from heaven, (ſo verſ. 1.) having
+the key of the bottomleſs pit, and a great chain in his
+hand; and he lays hold on the dragon, that old ſer<g ref="char:EOLhyphen"/>pent,
+which is the devil and Satan, and bindes him a
+thouſand yeers, and caſteth him into the bottomleſs
+pit, and there ſhuts him up, ſets a ſeal upon him, that
+he ſhould deceive the nations no more, <hi>&amp;c.</hi> And
+then, verſ. 4. <hi>I ſaw thrones, and they ſate upon them, and
+judgement was given unto them. And I ſaw the ſouls of
+them that were beheaded for the witneſs of Jeſus, and for
+the Word of God, and which had not worſhipped the beast,
+neither his image, neither had received his mark upon
+their foreheads, or in their hands: and they lived and
+raigned with Chriſt a thouſand yeers. But the rest of the
+dead lived not again, until the thouſand yeers were finiſhed.
+This is the firſt reſurrection. Bleſſed and holy is he</hi> (verſ. 6.)
+<hi>that hath part in the firſt reſurrection; on ſuch the ſecond
+death ſhall have no power; but they ſhall be prieſts of God
+and of Chriſt, and ſhall raign with him a thouſand yeers.</hi>
+Mark; what they ſay at the beginning, when they
+ſaw Jeſus Chriſt undertake the Kingdom; the very
+<pb n="14" facs="tcp:118950:10"/>
+ſame (after he had conquer'd all his enemies, the Beaſt
+and the falſe Prophet, and then taken the devil and
+all, and flung him for a time into the bottomleſs pit)
+is here fulfilled. That which before they ſaid would
+be the iſſue of Chriſts government, is here in the ve<g ref="char:EOLhyphen"/>ry
+ſame terms ſaid to be accompliſhed. Here in the
+5 Chapter they ſay, <hi>Thou hast made us kings and priests;</hi>
+in Chap. 20. 6. they are ſaid to be <hi>priests of God, and of
+Christ.</hi> Here they ſay, <hi>And we ſhall raign on earth:</hi> in
+the 20 Chapter it is twice repeated; firſt, verſ. 4. <hi>They
+raigned with Christ a thouſand yeers:</hi> and again, verſ. 6.
+<hi>And they ſhall raign with him a thouſand yeers.</hi> This, I
+ſay, ſhews it evidently that at the beginning they had
+this in their eye, as that which ſhould be the iſſue
+and cloſe of Chriſts governing the world.</p>
+            <p>
+               <hi>But you will ſay,</hi> Is what is ſaid in Chap. 20. meant
+of the Saints raigning on earth?</p>
+            <p>Certainly yes: and the reaſon is this, Becauſe
+during this raign, Satan is ſaid to be bound. Now
+to have Satan bound while the Saints raign in hea<g ref="char:EOLhyphen"/>ven,
+is unneceſſary and needleſs: for how can he
+diſturb them, or be an annoyance to their kingdom
+there? Whereas you ſee, that by way of prepara<g ref="char:EOLhyphen"/>tion
+to this kingdom they ſhall have on earth, both
+the Beaſt and the falſe Prophet are taken, and Satan
+himſelf bound. Neither, ſecondly, can it be meant
+of the raign of the Saints in heaven; for that is for
+a longer time then a thouſand yeers; and thoſe Saints
+that were ſlain in the Primitive times, they have al<g ref="char:EOLhyphen"/>ready
+raigned longer then a thouſand yeers. But
+that which doth moſt clearly evince it, is this, That
+in the 7 verſe the devil is ſaid to be let looſe: <hi>And
+when the thouſand yeers are expired,</hi> (ſaith he) <hi>Satan ſhall
+<pb n="15" facs="tcp:118950:10"/>
+be looſed out of his priſon.</hi> Therefore it muſt neceſſarily
+be meant neither of the kingdom of heaven after the
+day of Judgement, nor of the kingdom of heaven
+before the day of Judgement; but of a kingdom
+which they ſhall have on the earth, as the words are
+in this 5 Chapter.</p>
+            <p>Me-thinks (my brethren) that thus much ſhould
+be evident to all mens apprehenſions, by paralleling
+the words uſed here at the beginning of Chriſts re<g ref="char:EOLhyphen"/>ception
+of the government of the world, and the
+words expreſſed at the later end, (<hi>viz.</hi> in Chap. 20.)
+when Chriſt had thus accompliſhed the decrees con<g ref="char:EOLhyphen"/>tained
+in the book. I ſay, Me-thinks thus much
+ſhould be conſpicuous to all mens underſtandings,
+That there is ſome eminent kingdom for the Saints
+after all; when the enemies of Chriſt, the Beaſt and
+the falſe Prophet, and Satan himſelf is overthrown;
+when the decrees of this book are accompliſhed,
+when the time of this Prophecie is run out, that then,
+I ſay, there is an eminent kingdom for the Saints to
+have on the earth. Thus much, I ſay, me-thinks
+ſhould be evident to any mans underſtanding: It is
+that which in the beginning theſe ſay will be the end
+of Chriſts kingdom here; it is that which they com<g ref="char:EOLhyphen"/>fort
+themſelves withal; and, it is that which in order
+followeth Chriſts accompliſhing the decrees of his
+Father, and the ruine and deſtruction of his enemies.</p>
+            <p>There have been thoſe that have made this to be
+already fulfilled, namely, That there hath been a
+time wherein the Saints in heaven that were killed in
+the Primitive times, had a great deal of honour put
+upon them for a thouſand yeers; and the Saints on
+<pb n="16" facs="tcp:118950:11"/>
+earth had a great deal of peace; which they compute
+to be from the time of <hi>Theodoſius</hi> the Emperour, till
+the perſecution aroſe afreſh by the Pope and the An<g ref="char:EOLhyphen"/>tichriſtian
+party; and they reckon it to be about a
+thouſand yeers.</p>
+            <p>But it is evident, that that is not the meaning. For
+the time of this Raign here ſpoken of, muſt be after
+the Beaſt is deſtroyed: for in the 19 Chapter, verſ. 20.
+it is ſaid, <hi>The Beaſt was taken, and caſt into the lake:</hi> and
+then follows in the 20 Chapter, their <hi>raigning with
+Christ a thouſand yeers.</hi> And likewiſe all the Vials men<g ref="char:EOLhyphen"/>tioned
+in the Chapters before, were firſt to be pour<g ref="char:EOLhyphen"/>ed
+out upon him: and therefore it cannot be during
+the Popes raign. And then again, it cannot be du<g ref="char:EOLhyphen"/>ring
+that time neither, becauſe it is ſaid that the devil
+is bound up, that he ſhould deceive the nations no
+more: Now during the raign of the Beaſt, Satan
+never deceived the nations more then then: ſo Chap.
+13. 13. <hi>He deceiveth them that dwell on the earth.</hi> Ne<g ref="char:EOLhyphen"/>ver
+did he deceive men more both with Idolatry and
+Superſtition, never was there raiſed more Wars and
+Perſecutions againſt the Saints, then during the raign
+and time of Popery. The Saints indeed have had a
+great deal of honour put upon them by the Papiſts,
+in Canonizing of them, and the like; but alas, it
+was all but a falſe honour, it is not the honour and
+priviledge that the raigning with Chriſt a thouſand
+yeers gives them; neither would they have ſo rejoy<g ref="char:EOLhyphen"/>ced
+in it when Chriſt firſt took upon him to be king;
+not rejoyce, I ſay, in that glory and honour which
+the Popiſh world gave them during thoſe times of
+Popery; no, <hi>We ſhall raign on earth,</hi> ſay they: this
+was it which was the ground of their rejoycing, and
+<pb n="17" facs="tcp:118950:11"/>
+which they had then in their eye. Therefore as
+this was not begun when theſe Saints here in the
+5 Chap. firſt ſpake it; ſo neither ſhall it begin
+until the Beaſt and the falſe Prophet be deſtroyed.
+You muſt firſt ſee the accompliſhment of thoſe
+great things that are written in this Book concern<g ref="char:EOLhyphen"/>ing
+Antichriſt and his Kingdom, which will be
+the cloſe of the Kingdom of our Lord and Savi<g ref="char:EOLhyphen"/>our
+Jeſus Chriſt, and then follows that which
+you have in the 20 Chap. the 4, 5. and 6. verſ.</p>
+            <p>The next Queſtion will be, What perſons he
+ſpeaks this of, when he ſaith, We ſhall reign on the
+Earth?</p>
+            <p>Clearly, of thoſe that are redeemed unto God
+by the blood of the Lamb, Chriſt Jeſus, out of
+every Kindred, and Tongue, and People, and Na<g ref="char:EOLhyphen"/>tion.</p>
+            <p>But the great Querie will be, whether they ſpeak
+this of themſelves, perſonally, or whether they
+ſpeak it of all the Saints, ſucceſſively? that is,
+not onely we now, but all the Saints in many ages
+to come, ſhall be perſecuted and oppreſt: as we
+were by Heatheniſh <hi>Rome;</hi> ſo they ſhall be under
+Antichriſtian <hi>Rome;</hi> (for in <hi>Rome</hi> is found the
+blood of all the Saints; therefore I do not ſo much
+fear any Proteſtant-perſecution) yet in the end,
+though we now by our blood lay the foundation,
+and do but ſow to it; yet there is a crop to come
+up one day of a Kingdom which Jeſus Chriſt hath
+undertaken to bring into this world, which his
+Saints ſhall have.</p>
+            <p>You may very well interpret it ſo; and certain<g ref="char:EOLhyphen"/>ly
+for my part I take it to be that which was their
+<pb n="18" facs="tcp:118950:12"/>
+aim. And the language of the Scripture doth im<g ref="char:EOLhyphen"/>port
+as much. <hi>We ſhall not all die,</hi> (ſaith Paul) <hi>but
+we ſhall be changed.</hi> Did <hi>Paul</hi> think to live un<g ref="char:EOLhyphen"/>til
+the day of Judgement? No, yet he ſpeaks
+in the perſon of <hi>We,</hi> and the Chriſtians then might
+have ſaid the like; and yet thoſe perſons all died.
+He meaneth therefore, the whole Community and
+Fellowſhip of the Saints, whom the Apoſtle
+<hi>Peter,</hi> in 1 <hi>Pet.</hi> 2. 9. calleth a Generation, and a Na<g ref="char:EOLhyphen"/>tion:
+and therefore now, as a Nation that knows
+that one day they ſhall prevail and have a King<g ref="char:EOLhyphen"/>dom,
+as the <hi>Jews</hi> think, (though they ſuppoſe it
+many yeers to come, and do not think that they
+themſelves ſhall enjoy it) yet ſpeaking in the lan<g ref="char:EOLhyphen"/>guage
+of their Nation and Generation, may ſay,
+We ſhall one day be the top of Nations, and have
+theſe and theſe Priviledges: that is, Not we that
+now live; but all of this Nation, this Generation,
+this Kindred, as they are called alſo. And thus it
+hath a paſſable and a fair interpretation; <hi>We ſhall
+reign on earth.</hi>
+            </p>
+            <p>So that the plain Doctrine or Obſervation is
+but this, <hi>That there is in the end a Kingdom to come
+here for the Saints,</hi> that after all the Kingdoms of
+the World have had their time and their date, by
+which the Saints have all along been oppreſt and
+injured, there is, even on earth, a Kingdom to be
+given unto them, when all Nations ſhall be con<g ref="char:EOLhyphen"/>verted
+unto God, and the Saints in them be the
+prevailing party in the World. The Scripture
+ſeems to run much this way.</p>
+            <p>The firſt man (that I finde of an Engliſhman)
+that diſtinctly fell into this Notion, was a man of
+<pb n="19" facs="tcp:118950:12"/>
+much holineſs and piety,<note place="margin">Mr. Wood.</note> now with
+God. I'll tell you the occaſion that
+led him into theſe thoughts, as he himſelf (in a
+manuſcript I have lying by me) expreſſeth it. <q>I
+went, <hi>ſaith he,</hi> to recollect all the promiſes that
+are in the whole Book of God made unto the
+Saints, beginning at <hi>Geneſis</hi> and ſo going along
+throughout all the old Teſtament (not dreaming
+of any ſuch notion as this is) &amp; I found no check
+at all in my thoughts, until I came to read ſome
+of the Prophecies in <hi>Iſaiah,</hi> which profeſſedly
+ſpeak of the times of the Goſpel, &amp; which ſpeak
+ſuch great, high, and glorious things of ſpiritual
+enjoyments of God, with outward peace &amp; proſ<g ref="char:EOLhyphen"/>perity.</q>
+As now to give you an inſtance or two,
+<hi>Iſa.</hi> 2. from verſ. 3, and ſo on: <hi>In the laſt dayes the
+mountain of the Lords houſe ſhall be eſtabliſhed in the top
+of the mountains, and ſhall be exalted above the hills,
+and all nations ſhall flow unto it: and they ſhall beat their
+ſwords into plough-ſhares,</hi> &amp;c. <hi>neither ſhall they learn
+war any more.</hi> The like you have in <hi>Micah</hi> 4. the
+whole Chapter. So in <hi>Iſa.</hi> 25. 6, 7, 8. when the
+vail ſhall be taken from off the hearts of the <hi>Jews,</hi>
+(as <hi>Paul</hi> interprets it in 2 <hi>Cor.</hi> 13.) he tells you of
+the peace and glory that ſhall be in that nation, and
+how the Lord will wipe away tears from off all
+faces, and the rebuke of his people ſhall be taken
+away from off all the earth; whereas before they
+ſhould lie under all ſorts of reproaches over all the
+World. Likewiſe in <hi>Iſa.</hi> 60. 9, 10, and ſo to the end,
+you have promiſes of all ſorts to this purpoſe,
+how that the gates of the Church ſhould be con<g ref="char:EOLhyphen"/>tinually
+open, <hi>they ſhould not be ſhut day nor night, that
+<pb n="20" facs="tcp:118950:13"/>
+men</hi> (ſaith he) <hi>may bring unto thee the forces of the
+Gentiles, and that their kings may be brought: for the
+nation and kingdom that will not ſerve thee, ſhall periſh;
+yea, thoſe nations ſhall be utterly wasted. The ſons alſo
+of them that afflicted thee, ſhall come bending unto thee,
+and all they that deſpiſed thee, ſhall bow themſelves down
+at the ſoles of thy feet, and they ſhall call thee, The city
+of the Lord, The Sion of the holy One of Iſrael. Where<g ref="char:EOLhyphen"/>as
+thou has been forſaken and hated, ſo that no man went
+thorow thee, I will make thee an eternal excellency, a joy
+of many generations. Thou ſhalt alſo ſuck the milk of
+the Gentiles, and ſhalt ſuck the breſt of kings. For braſs I
+will bring gold and fortron I will bring ſilver, and for
+wood braſs, and for ſtones iron. Violence ſhall no more
+be heard in thy land, wasting nor destruction within thy
+borders; but thou ſhalt call thy walls, Salvation, and
+thy gates, Praiſe. The Sun ſhall be no more thy light by
+day,</hi> &amp;c. Alſo in <hi>Iſa. 65. 16, 17. He who bleſſeth him<g ref="char:EOLhyphen"/>ſelf
+in the earth, ſhall bleſs himſelf in the God of the
+earth,</hi> &amp;c. <hi>for behold, I create new heavens and a new
+earth, and the former ſhall not be remembred, nor come
+into minde. Behold, I create Jeruſalem a rejoycing and
+her people a joy: and the voice of weeping ſhall be no more
+heard in her, nor the voice of crying. There ſhall
+be no more an infant of daies, nor an old man that hath
+not filled his daies. And they ſhall build houſes, and in<g ref="char:EOLhyphen"/>habit
+them; and they ſhall plant vineyards, and eat the
+fruit of them,</hi> &amp;c. So in <hi>Zech. 14. 9. The Lord ſhall
+be King over all the earth: in that day there ſhall be one
+Lord, and his Name one.</hi> I cannot ſtand to ſingle out
+thoſe things in theſe Chapters and many others of
+the like kinde, which are moſt emphetical; you
+may do it when you read them. <q>Now, <hi>ſaith he,</hi>
+                  <pb n="21" facs="tcp:118950:13"/>
+when I read theſe promiſes (as likewiſe that in
+<hi>Dan.</hi> 7. that after all the four Monarchies,
+(whereof the remainder of the fourth ſtandeth)
+ſhall be deſtroyed, <hi>the kingdom, &amp; dominion, and the
+greatneſs of the kingdom under the whole heaven ſhall
+be given to the people of the Saints of the moſt High.</hi>)
+When I found ſuch promiſes, (<hi>ſaith he,</hi>) as theſe
+are, I knew not what to think, I wondred at it,
+and was amazed.</q> Hereupon, <hi>he ſaith,</hi> he read ſome
+Commentators, whom he found to expound them
+all of Heaven and the glory thereof, ſet out in an
+allegorical way: but yet this ſatisfied him not;
+for it ſeemed evident to him, that it was to be un<g ref="char:EOLhyphen"/>derſtood
+of a Kingdom here on the Earth; for he
+perceived there was mention made of ſinners, and
+of men that die, and the like: and therefore read<g ref="char:EOLhyphen"/>ing
+other interpretations, he found them apply it
+to Ordinances, and and other Spiritual enjoy<g ref="char:EOLhyphen"/>ments
+of God, with abundance of outward peace
+and proſperity. Hence therefore he concluded
+that there muſt neceſſarily be a time in which theſe
+promiſes muſt be fulfilled and accompliſhed; <hi>for
+the Saints have alwaies in all ages been more oppreſt
+under the Goſpel, then ever they were under the Law;</hi>
+they have propheſied in ſackcloath, and have been
+the outcaſt, and the reproach of all the Kingdoms,
+and are ſo accounted even to this very day. <hi>Daniel</hi>
+you know was a Court-like Prophet; for he lived
+in the alteration of thoſe great Monarchies, the
+Aſſyrian to the Babylonian, and the Babylonian
+to the Perſian; and God did reveal himſelf ac<g ref="char:EOLhyphen"/>cordingly
+to him; for you ſhall finde his prophe<g ref="char:EOLhyphen"/>cie
+ſpent moſt in deſcribing the four Monarchies
+<pb n="22" facs="tcp:118950:14"/>
+that ſhould be in the world; the deſcription you
+ſhall finde ſpecially ſet down in the 7 Chapter,
+where having deſcribed the three firſt Monarchies,
+he cometh at the 23 verſ. to the fourth, the fourth
+Beaſt, which he ſaith ſhall be the fourth King<g ref="char:EOLhyphen"/>dom
+upon Earth, which ſhall be divers from all
+Kingdoms, and ſhall devour the whole Earth, and
+ſhall tread it down and break it in pieces, as the
+Roman Empire did, the Reliques whereof remain
+in the Turk &amp; Pope to this day. But after all theſe
+Beaſts were ended, <hi>I beheld</hi> (ſaith he, verſ. 11.) <hi>even
+till the Beaſt was ſlain, and his body deſtroyed, and given
+unto the burning flame.</hi> For in <hi>Rev,</hi> 19. the Beaſt is
+taken, and ſo there is an end of him. And as for
+the other Beaſts, he ſaith, <hi>They had their dominion
+taken away, yet their lives were prolonged for a ſeaſon.</hi>
+But in the end and concluſion of all, what ſaith
+he? <hi>I ſaw one like the Son of man,</hi> (verſ. 13.) <hi>and there
+was given him dominion, and glory, and a kingdom,
+that all people, nations, and languages ſhould ſerve him;
+his dominion is an everlaſting dominion, which ſhall not
+paſs away, and his kingdom that which ſhall not be de<g ref="char:EOLhyphen"/>ſtroyed.</hi>
+And verſ. 27. <hi>The kingdom, and dominion,
+and the greatneſs of the kingdom under the whole heaven,
+ſhall be given to the people of the Saints of the moſt High.</hi>
+The text you ſee is expreſs, that the Kingdom here
+ſpoken of, is a Kingdom which the Saints ſhall
+have after the four Monarchies are deſtroyed,
+which he ſaith ſhall be a kingdom, <hi>not in heaven,</hi>
+but, <hi>under the whole heaven,</hi> where there are People,
+Nations and Languages, men, who ſhall continue
+in their ſeveral varieties, which in Heaven they do
+not; for there is neither Tongue, nor Kindred, nor
+Nation there.</p>
+            <p>
+               <pb n="23" facs="tcp:118950:14"/>
+Let me ſpeak another thing to you. Diſcour<g ref="char:EOLhyphen"/>ſing
+once with a Papiſt, who defended (as you
+know they do) the truth of their Religion, and
+the ſupremacy of the Roman Church, he brought
+this Argument to me. <q>Read (<hi>ſaith he</hi>) the Pro<g ref="char:EOLhyphen"/>phets,
+you ſhall finde ſome of them make men<g ref="char:EOLhyphen"/>tion
+of a Mountain that ſhall be ſet upon the top
+of all the Mountains, to which all the people of
+God ſhall reſort in a conſpicuous manner; that
+peace and outward proſperity ſhall attend and
+accompany that Church or Mountain, the riches
+of the Nations ſhall be brought into it, Kings
+ſhall bow down their heads unto it, and lick the
+duſt of their feet, <hi>&amp;c.</hi> Where (<hi>ſaith he</hi>) were
+theſe and the like prophecies ever fulfilled, if not
+in the Church of <hi>Rome?</hi>
+               </q>
+            </p>
+            <p>And for my own part, I muſt acknowledge, that
+let any one read ſuch prophecies as theſe are, and
+give me an anſwer how or when they either are or
+can be fulfilled, unleſs this be granted for a truth,
+<hi>That after all is done, there is kingdom to be given unto
+the Saints upon the Earth.</hi>
+            </p>
+            <p>When you come to deal with the <hi>Jews,</hi> you ſhall
+finde, that they alwaies knew and expected, and
+do now know and expect, a kingdom to come for
+them in the end. The Apoſtles themſelves ſeem<g ref="char:EOLhyphen"/>ed
+to have ſuch thoughts; for in <hi>Act.</hi> 1. 6, 7.
+when Chriſt was about to aſcend into Heaven,
+they ask'd him, <hi>Lord, wilt thou at this time restore a<g ref="char:EOLhyphen"/>gain
+the kingdom to Iſrael?</hi> Chriſt you ſee doth not
+deny that there was a kingdom to come for them,
+onely he ſaith, <hi>It is not for you to know the times and
+the ſeaſons, which the Father hath put in his own power.</hi>
+               <pb n="24" facs="tcp:118950:15"/>
+Plainly intimating, that there was a time and a ſea<g ref="char:EOLhyphen"/>ſon,
+which God had for it, which he reſerveth in
+his own power. And the Apoſtle <hi>Peter,</hi> when he
+comes to deal with the <hi>Jews,</hi> and preach the Meſſi<g ref="char:EOLhyphen"/>ah
+to them, in <hi>Act.</hi> 3. knowing that their great
+miſtake lay in looking that the Meſſiah ſhould e<g ref="char:EOLhyphen"/>ven
+from the firſt come to them as a glorious Mo<g ref="char:EOLhyphen"/>narch,
+and reſtore to them the kingdom, and not
+come meek and lowly, as he did, riding upon an
+Aſs, he deals with them according to their own
+Principles, onely removeth their miſtake:
+<hi>Repent ye</hi> (ſaith he, verſ. 19.) <hi>and be converted, that
+your ſins may be blotted out, when the times of referſhing
+ſhall come from the preſence of the Lord, and he ſhall ſend
+Ieſus Chriſt, which before was preached unto you, whom
+the heaven muſt receive, until the times of the reſtitu<g ref="char:EOLhyphen"/>tion
+of all things</hi> (The very word which the Diſ<g ref="char:EOLhyphen"/>ciples
+uſed in <hi>Acts 1. Wilt thou not reſtore,</hi> ſay
+they?) <hi>which God hath ſpoke by the mouth of all his
+holy Prophets ſince the world began.</hi> You <hi>Iews,</hi> ſaith he,
+expect a reſtitution; but here is your miſtake; this
+Jeſus muſt firſt be preached, and he muſt go into
+Heaven, and the Heaven muſt receive him, till that
+time of reſtitution cometh, and then he will at
+leaſt manifeſt himſelf unto you. He that wrote
+that little book called, <hi>The Voyage into the Levant,</hi>
+he ſaith, That he had often occaſion to converſe
+with the <hi>Iews,</hi> whom he generally found to be in
+expectation of their Meſſiah; and when he told
+them of theſe kinde of notions that were up and
+down this Kingdom and other places of <hi>Europe,</hi>
+concerning a Kingdom that God would give unto
+his Saints here upon the Earth, after the calling of
+<pb n="25" facs="tcp:118950:15"/>
+the <hi>Jews,</hi> and that their Meſſiah would manifeſt
+himſelf unto them even according to their own ex<g ref="char:EOLhyphen"/>pectations;
+he ſaith, They were infinitely taken
+with the hearing of it. It ſuiteth with all their
+Notions, and with their Expectations, and with
+all the Interpretations the Rabbins have given of
+thoſe Scriptures.</p>
+            <p>And conſider one thing more: All ſorts, almoſt
+out of all quarters of the world, though they
+run ſeveral waies, yet they fall all into this Notion.
+As now for inſtance: Thoſe that are for the Reſto<g ref="char:EOLhyphen"/>ration
+of Churches to their firſt purity, they con<g ref="char:EOLhyphen"/>clude
+for this reigning for a thouſand yeers, and
+that the Saints ſhall have thrones given them, <hi>&amp;c.</hi>
+There is a time coming, ſay they, after Antichriſt
+is down, when there will be a reſurrection of
+Churches to their firſt purity and glory, in which
+there ſhall be onely Saints, without mixture of o<g ref="char:EOLhyphen"/>thers.
+And ſo they interpret that place in <hi>Rev.</hi>
+20 5, 6. <hi>This is the firſt reſurrection: bleſſed and holy
+is he that hath his part in the firſt reſurrection.</hi> And,
+ſay they, Until then, all Churches will be but as
+dead things: the great reſurrection is reſerved till
+that time. Others that are for the coming of
+Chriſt in Spirit, (as the language of ſome is) they
+ſay this alſo, That towards the end of the World,
+Jeſus Chriſt will break forth to his people with a
+great deal of glory and ſplendor, ſo as never be<g ref="char:EOLhyphen"/>fore.
+The very Jeſuites themſelves have been ſo
+much convinced, that ſuch things are to be in
+the later daies, that ſome of them have written a
+book of the fifth Monarchy; onely indeed they do
+apply and appropriate it unto themſelves, and call
+<pb n="26" facs="tcp:118950:16"/>
+that kingdom which, they ſay, ſhall be in thoſe
+daies, <hi>Regnum Jeſuiticum.</hi>
+            </p>
+            <p>The ſcope I have in ſaying this, is to ſhew you,
+that although men run ſeveral waies in their expli<g ref="char:EOLhyphen"/>cation
+and expectation of this time, the <hi>Jews</hi> go<g ref="char:EOLhyphen"/>ing
+one way, the Papiſts another, and thoſe a<g ref="char:EOLhyphen"/>mongſt
+our ſelves ſeveral waies; yet as it is an Ar<g ref="char:EOLhyphen"/>gument,
+and a ſtrong one, That there is a God,
+and that the Notion of a Deity is ſtamped in the
+Spirits of men, becauſe all Nations have pitched
+upon worſhipping of ſome God, although their
+error hath been to worſhip the falſe: ſo the vari<g ref="char:EOLhyphen"/>ety
+of waies that men have run, and the expecta<g ref="char:EOLhyphen"/>tions
+that men are in, of ſuch a time coming as I
+ſpeak of, it argueth ſtill for the ſubſtance, that
+there is ſome ſuch thing, although one miſtake,
+and another miſtakes, and perhaps none can di<g ref="char:EOLhyphen"/>ſtinctly
+tell what is to come. This I am certain
+of, that the Primitive Chriſtians did abundantly
+comfort themſelves with this Notion, and the
+conſideration of it. And here you ſee the Saints
+had it in their eye at the very firſt, when Chriſt
+took the Government of the World upon him, as
+that which ſhould be the cloſe of his Kingdom:
+<hi>We,</hi> ſay they <hi>ſhall reign on the earth;</hi> there is a King<g ref="char:EOLhyphen"/>dom
+reſerved for our Generation; ſpeaking (as
+I ſaid) in the language of the Communion of
+Saints.</p>
+            <p>And there is all the reaſon in the World for it,
+beſides what I have mentioned out of the Scrip<g ref="char:EOLhyphen"/>tures:
+for,</p>
+            <p>Firſt, The Saints that have been oppreſt here in
+this World, it is a righteous thing with God to
+<pb n="27" facs="tcp:118950:16"/>
+give that Generation reſt, and that they ſhould
+have their turn after all Kingdomes are diſſolved;
+that what <hi>Adam</hi> loſt, ſhould be reſtored to them
+again.</p>
+            <p>
+               <hi>Secondly, That all thoſe promiſes which (my bre<g ref="char:EOLhyphen"/>thren)
+have had an accompliſhment but in an indi<g ref="char:EOLhyphen"/>rect
+way, as that which Chriſt, &amp; which the</hi> Pſalms
+<hi>alſo mention,</hi> The meek ſhall inherit the earth: <hi>That
+all the prayers that have been put up, as,</hi> That thy
+will be done on earth as it is in heaven: <hi>That</hi> Abraham
+and his ſeed ſhould be heirs of the world: <hi>That</hi> there
+ſhall be a new heaven, and a new earth, in which righte<g ref="char:EOLhyphen"/>ouſneſs
+dwelleth; <hi>which, ſaith</hi> Peter, we look for: <hi>and
+that promiſe, if you look in</hi> Iſa. 65. <hi>I am ſure you
+will finde to be</hi> made to men on earth; <hi>for he ſaith
+plainly,</hi> They ſhall build houſes, and inhabit them; and
+they ſhall plant vineyards, and eat the fruit of them, <hi>&amp;c.</hi>
+            </p>
+            <p>There are thoſe that go yet further, and ſay, That
+though there is ſuch a Kingdom belonging to the
+Saints, yet they ſay withal, That the Saints that
+have been before, they ſhall during that Kingdom
+riſe again; ſo interpreting that place in <hi>Revel.</hi> 20.
+according to the very letter: <hi>I ſaw the ſouls of them
+that were beheaded for the witneſs of Ieſus, and for the
+word of God, and which had not worſhipped the Beaſt,
+neither his image, neither had received his mark upon
+their foreheads, or in their hands; and they lived and
+reigned with Chriſt a thouſand yeers: but the rest of
+the dead lived not again till the thouſand yeers were fi<g ref="char:EOLhyphen"/>niſhed.
+This is the first reſurrection.</hi> Which reſur<g ref="char:EOLhyphen"/>rection
+that ſhall thus uſher in this reign, ſome
+interpret of a generation of Saints a multitude of
+Converts that ſhall come with the ſame Sprit and
+<pb n="28" facs="tcp:118950:17"/>
+Power that all the Saints formerly beheaded,
+had; and ſo they are ſaid to riſe again in them, as
+<hi>Elias</hi> is ſaid to riſe again from the dead in <hi>Iohn
+Baptist,</hi> who came in the Spirit and Power of <hi>E<g ref="char:EOLhyphen"/>lias.</hi>
+But there are theſe reaſons given to the con<g ref="char:EOLhyphen"/>trary,
+and that it muſt be meant of a true Reſur<g ref="char:EOLhyphen"/>rection,
+and of a Reſurrection taken in a proper
+ſenſe: for,</p>
+            <p>Firſt, It is ſaid, That <hi>the ſouls of them that were
+beheaded, they lived;</hi> how? by a reſurrection; for
+he ſaith, It <hi>is the first reſurrection.</hi> Now, how do
+ſouls riſe? no way, but by having their bodies
+united to them. They are the ſouls of men that
+have been killed, and killed by the ſword: now
+their Reſurrection muſt be anſwerable to their
+death; it is made the reward of it. Their natu<g ref="char:EOLhyphen"/>ral
+lives were taken away, their Reſurrection to
+life therefore, muſt be taken in the ſame ſenſe and
+proportion to the life which they loſt. And then
+again, obſerve, it is the very ſame ſouls, in which
+you ſhall finde a great deal of emphaſis: for read
+the 6 Chap. verſ. 9. <hi>&amp;c. I ſaw,</hi> ſaith he, <hi>the ſouls
+of them that were ſlain for the word of God, and for the
+testimony which they held, lying under the altar, crying
+with a loud voice,</hi> &amp;c. They were the Primitive
+Martyrs; for this was in the beginning of the
+book. Now here in the 20 Chapter he ſaith, <hi>I
+ſaw thoſe ſouls,</hi> or <hi>the ſouls of them that had been ſlain,
+for the witneſs of Jeſus, and for the word of God:</hi> he
+uſeth the ſame deſcription; and he addes to them
+(for the 6 Chap. is meant of the Primitive Chri<g ref="char:EOLhyphen"/>ſtians,
+ſlain under heatheniſh <hi>Rome</hi>) thoſe that had
+been ſlain under Antichriſtian <hi>Rome;</hi> for he ſpeaks
+<pb n="29" facs="tcp:118950:17"/>
+of ſuch as had purified themſelves from Anti<g ref="char:EOLhyphen"/>chriſt,
+and which had <hi>not worſhipped the Beast, nei<g ref="char:EOLhyphen"/>ther
+his image, neither had received his mark upon their
+foreheads, or in their hands, and they</hi> (ſaith he) <hi>lived
+and reigned with Chriſt a thouſand yeers. But the rest
+of the dead lived not again.</hi> No wicked men ſhall
+riſe then; they are reſerved until the day of judge<g ref="char:EOLhyphen"/>ment.</p>
+            <p>But to what end is this?</p>
+            <p>Firſt, That as theſe Saints do now govern the
+World inviſibly (as I ſaid before;) ſo they may
+then do it viſibly. And great muſt needs be the
+glory and happineſs of thoſe times.</p>
+            <p>Secondly, That which the Angels do now in<g ref="char:EOLhyphen"/>viſibly,
+the Saints ſhall then do viſibly. The An<g ref="char:EOLhyphen"/>gels
+now have this World ſubjected to them, and
+all the affairs thereof; and the execution of the
+Decrees of God, are ſtill ſaid to be done by them.
+But, ſaith the Apoſtle, <hi>Heb. 2. 5. Unto the Angles,
+God hath not put in ſubjection the world to come, whereof
+we ſpeak.</hi> And he doth not ſpeak of the World to
+come after the day of judgement; for it is that
+Kingdom which Chriſt ſhall have before he giv<g ref="char:EOLhyphen"/>eth
+up all things unto the Father. This world
+here, therefore, is ſubjected unto the Angels that
+do miniſterially rule, and who do work with the
+Spirits of men this way and that way for the good
+of the Church, in oppoſition to Satan. But then all
+ſhall be done by the Saints in a viſible maner.</p>
+            <p>Thirdly, Hereby they are made conformable to
+the ſame ſtate and condition Jeſus Chriſt was in:
+whilſt he was in the World, he was mean, he was
+under all ſorts of oppreſſion; he dies, his Soul goes
+<pb n="30" facs="tcp:118950:18"/>
+to heaven; he riſeth again, and after he was riſen, he
+ſtays here below for many days, converſeth with
+his Diſciples at times, inſtructeth them in the
+things of the Kingdom of God, appeareth, diſap<g ref="char:EOLhyphen"/>peareth,
+<hi>&amp;c.</hi> And if you ask me, What will the life
+of men be, thus riſen? I ask, What was the life that
+Jeſus Chriſt led during thoſe forty dayes before
+he did aſcend? And if you object, that this will
+be a diminution to their happineſs; I anſwer,
+It was no diminiſhing of the happineſs of Jeſus
+Chriſt. Aſſuredly, he injoyed more bleſſedneſs
+being riſen, and his Soul and Body united, then
+when his Soul ſingly and alone was bleſſed; and
+yet, for thoſe forty dayes he was here upon the
+Earth. Think my brethren, of the day of judge<g ref="char:EOLhyphen"/>ment,
+whenas Jeſus Chriſt himſelf will come with
+all his Saints and Angels, out of the place of Hea<g ref="char:EOLhyphen"/>ven
+into this viſible World; and it will ask a long
+time to judge the World, becauſe he will judge
+it as a man, and lay open the ſecrets of all hearts;
+and we may be ſure that will be done in this viſi<g ref="char:EOLhyphen"/>ble
+World. The Angels that come down from
+heaven to earth, do yet ſee the face of God there<g ref="char:EOLhyphen"/>fore
+it is no derogation to the happineſs and bleſ<g ref="char:EOLhyphen"/>ſedneſs
+of the Saints.</p>
+            <p>And if you ask me. Whether during this time
+they ſhall eat and drink? I anſwer, The children
+of the Reſurrection neither marry nor give in mar<g ref="char:EOLhyphen"/>riage,
+or do any ſuch thing; but they are as the
+Angels of God. Chriſt after his Reſurrection
+lived not upon any ſuch thing; no more ſhall the
+Saints, although the number of them upon the
+earth ſhall be innumerable; for the earth ſhall be
+<pb n="31" facs="tcp:118950:18"/>
+full of the knowledge of the Lord, and the
+Name of God and of Chriſt ſhall be ſet up in the
+whole earth; and the greater part of the World
+ſhall be Saints. And though thoſe that ſhall then
+be found alive, may haply eat, and drink, and
+build houſes, <hi>&amp;c.</hi> yet thoſe that riſe again, ſhall
+not.</p>
+            <p>I have, as briefly as I could, opened this thing to
+you, which here theſe Primitive Chriſtians, in the
+very beginning of the book, have in their eye.
+Whether it be meant onely of that generation of
+Saints, and of the Reſurrection in the 20 Chap. or
+onely a Reſurrection by way of ſucceſſion, in com<g ref="char:EOLhyphen"/>pariſon
+of former times; or whether, yea or no, it
+ſhall be a true and proper Reſurrection, I leave un<g ref="char:EOLhyphen"/>determined:
+onely this I ſay, That certainly there
+is ſome great thing (after all the Kingdoms of the
+world have had their turnes) for the Saints to have,
+and that on earth, both by the promiſes in this
+book, and by all the prophecies of all the Pro<g ref="char:EOLhyphen"/>phets
+which have been ſince the World began.
+And therefore, as <hi>Peter</hi> ſaith, <hi>Seeing we expect ſuch
+things, what manner of perſons ought we to be, in all holy
+converſation and godlineſs!</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
